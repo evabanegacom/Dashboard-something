@@ -8,6 +8,8 @@ const SubComponent = () => {
     display: flex;
     justify-content: space-between;
     padding-right: 3rem;
+    margin: 15px 0;
+
   `;
 
   const SubDiv = styled.div`
